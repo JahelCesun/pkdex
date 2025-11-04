@@ -1,0 +1,31 @@
+ion-card {
+  margin: 10px;
+  border-radius: 12px;
+}
+
+ion-chip {
+  margin: 2px;
+}
+
+img {
+  margin-top: 10px;
+}
+
+.detail-header {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.types {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.type-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.3));
+}
